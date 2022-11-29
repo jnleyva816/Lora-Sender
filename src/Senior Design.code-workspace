@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../OneDrive - Florida Polytechnic University/School/Fall 2022/Senior Design"
+		},
+		{
+			"name": "Lora Sender",
+			"path": ".."
+		},
+		{
+			"name": "Lora Receiver",
+			"path": "../../Lora Receiver"
+		},
+		{
+			"name": "BMP388",
+			"path": "../../BMP388"
+		},
+		{
+			"name": "Prototype",
+			"path": "../../Prototype"
+		}
+	],
+	"settings": {}
+}
